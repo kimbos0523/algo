@@ -10,7 +10,8 @@ package sort;
 public class BubbleSort {
 
     /**
-     *
+     * Compare the consecutive two numbers and switch them if the order of numbers
+     * is wrong.
      * @param arr the given array
      */
     void sort(int arr[]) {
